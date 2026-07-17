@@ -1,0 +1,20 @@
+# HAMMER_MCP_START
+[mcp_servers.hammer]
+url = "http://127.0.0.1:8791/mcp"
+bearer_token_env_var = "HAMMER_TOKEN"
+enabled = true
+startup_timeout_sec = 10
+tool_timeout_sec = 120
+enabled_tools = [
+  "hammer_get_started",
+  "hammer_search",
+  "hammer_read",
+  "hammer_add",
+  "hammer_update",
+  "hammer_log",
+  "hammer_archive",
+  "hammer_history",
+  "hammer_status",
+  "hammer_health",
+]
+# HAMMER_MCP_END

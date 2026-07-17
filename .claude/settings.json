@@ -1,0 +1,19 @@
+{
+  "enabledMcpjsonServers": [
+    "hammer"
+  ],
+  "permissions": {
+    "allow": [
+      "mcp__hammer__hammer_get_started",
+      "mcp__hammer__hammer_search",
+      "mcp__hammer__hammer_read",
+      "mcp__hammer__hammer_add",
+      "mcp__hammer__hammer_update",
+      "mcp__hammer__hammer_log",
+      "mcp__hammer__hammer_archive",
+      "mcp__hammer__hammer_history",
+      "mcp__hammer__hammer_status",
+      "mcp__hammer__hammer_health"
+    ]
+  }
+}
