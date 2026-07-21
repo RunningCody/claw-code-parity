@@ -13,7 +13,12 @@
       "mcp__hammer__hammer_archive",
       "mcp__hammer__hammer_history",
       "mcp__hammer__hammer_status",
-      "mcp__hammer__hammer_health"
+      "mcp__hammer__hammer_health",
+      "Bash(hammer-mcp get-started)",
+      "Bash(hammer-mcp status)",
+      "Bash(hammer-mcp health)",
+      "Bash(hammer-mcp search:*)",
+      "Bash(hammer-mcp read:*)"
     ]
   }
 }
